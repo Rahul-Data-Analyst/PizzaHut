@@ -34,5 +34,5 @@ PizzaHut collects significant data from daily operations, including customer ord
 
 13-Top 3 by Category: Identify the top 3 most ordered pizza types based on revenue for each category.
 
-. LinkedIn: [Connect with me professionally](www.linkedin.com/in/ rahul-yadav-b16857205)
+. LinkedIn: [Connect with me professionally](https://www.linkedin.com/in/rahul-yadav-b16857205/)
 Thank you for your support, and I look forward to connecting with you!
