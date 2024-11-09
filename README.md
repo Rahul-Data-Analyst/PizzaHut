@@ -1,10 +1,11 @@
---Project Overview:
+##Project Overview:
 
 PizzaHut collects significant data from daily operations, including customer orders and menu options. Analyzing this data can reveal customer preferences, popular pizzas, and support better business decisions. The project uses MySQL for organizing and analyzing the data to uncover patterns and optimize operations.
 
---Key Problems Addressed:
+##Key Problems Addressed:
 
 1-Total Orders: Retrieve the total number of orders placed.
+
 
 2-Revenue Calculation: Calculate total revenue generated from pizza sales.
 
@@ -14,7 +15,7 @@ PizzaHut collects significant data from daily operations, including customer ord
 
 5-Top 5 Pizzas: List the top 5 most ordered pizza types and their quantities.
 
---Intermediate Aims:
+##Intermediate Aims:
 
 6-Daily Orders: Group orders by date and calculate the average number of pizzas ordered per day.
 
@@ -26,7 +27,7 @@ PizzaHut collects significant data from daily operations, including customer ord
 
 10-Top 3 Pizzas by Revenue: Determine the top 3 most ordered pizza types based on revenue.
 
---Advanced Aims:
+##Advanced Aims:
 
 11-Revenue Contribution: Calculate the percentage contribution of each pizza type to total revenue.
 
